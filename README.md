@@ -28,7 +28,7 @@ Curriculum Connect aims to address the challenges students face in planning thei
 1.  Clone the repository:
 
     ```
-    git clone [repository URL]
+    git clone https://github.com/sheetalp97/curriculum-connect-business-plan
     cd curriculum-connect-business-plan
     ```
 
